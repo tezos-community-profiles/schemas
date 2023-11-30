@@ -33,6 +33,7 @@ assert(validate('profile', valid_profile_2))
 assert(!validate('profile', invalid_profile_1))
 assert(!validate('profile', invalid_profile_2))
 assert(!validate('profile', invalid_profile_3))
+assert(!validate('profile', {}))
 
 // Throws is invalid schema name
 try {
