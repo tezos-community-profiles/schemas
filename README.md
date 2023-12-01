@@ -29,4 +29,10 @@ profile   -   TCP Profile Data
 proofs    -   WIP
 ```
 
+## Test
+
+```
+npm test
+```
+
 enjoy.
