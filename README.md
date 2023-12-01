@@ -5,13 +5,13 @@ This module contains schemas for Tezos Community Profiles.
 ## Install
 
 ```
-npm install --save ...
+npm install --save @tcprofiles/schemas
 ```
 
 ## Use
 
 ```
-import { validate } from '...'
+import { validate } from '@tcprofiles/schemas'
 
 const profile = {
   nic: "asbjornenge",

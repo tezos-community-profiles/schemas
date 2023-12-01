@@ -1,5 +1,5 @@
 {
-  "name": "tcp-schemas",
+  "name": "@tcprofiles/schemas",
   "type": "module",
   "version": "1.0.0",
   "description": "",
@@ -8,7 +8,7 @@
     "test": "node test.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "BSD",
   "dependencies": {
     "ajv": "^8.12.0"
   }
